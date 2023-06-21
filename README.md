@@ -1,6 +1,6 @@
 
 # Hi there, I'm Joe! 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saad484&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josh-techie&show_icons=true&theme=radical)
 
 - 💞️ I’m looking to collaborate on some projects, just dm me. 
 
