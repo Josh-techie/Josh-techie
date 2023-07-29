@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://i.postimg.cc/mrjNdFKH/IMG-20230216-WA0009.jpg" width="512px"/>
+<img src="https://i.postimg.cc/mrjNdFKH/IMG-20230216-WA0009.jpg" width="512px" style="display: block; margin: 0 auto;" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Josh-techie&icon=0&color=0)](https://visitcount.itsvg.in)
