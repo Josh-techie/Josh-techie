@@ -33,12 +33,15 @@
 ---
 
 ### ✍️ Random Dev Quote
+
 <div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
+
 ---
 
 ### 😂 Random Dev Meme
+
 <div align="center">
 <img src="https://i.postimg.cc/mrjNdFKH/IMG-20230216-WA0009.jpg" width="512px" style="text-align: center;" />
 </div>
@@ -46,6 +49,8 @@
 ---
 
 ### 💰 You can help me by Donating
+
 <div align="center">
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Joeseph) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/joeseph92713) 
 </div>
+
