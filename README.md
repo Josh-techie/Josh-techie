@@ -28,12 +28,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Josh-techie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<iframe src="https://www.google.com" width="400" height="300"></iframe>
 ---
 # 🔓 Hacking Garden
 
 <div align="center">
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2034086" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Jo4er.png" alt="Your Image Badge" />
 </div>
 
 ---
